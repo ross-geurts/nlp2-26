@@ -81,7 +81,7 @@ for lang in ["de", "es", "ru"]:
         ## load the participant hypotheses every time,
         ## but re-use the shared_task_src, lemmatized_shared_task_src, as well as both modes' dict_list and lemmatized_dict_list
 
-        stats_dict, error_files = run_cycle(lang, "en", mode, f'../submissions/track1')
+        stats_dict, error_files = run_cycle("en", lang, mode, f'../submissions/track1')
         
 
         for team in teams:

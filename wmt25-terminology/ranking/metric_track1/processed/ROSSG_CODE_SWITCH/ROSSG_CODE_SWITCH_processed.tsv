@@ -1,0 +1,2 @@
+	terms	src_raw	mt_raw	src_terms	alg_terms	norm_tgt_terms
+499	{'completed': 'concluido'}	Cancel repair confirmations with the status Completed.	Cancelar confirmaciones de reparación con el estado Completado.	['completed']	{'completed': 'Completado'}	['completado']

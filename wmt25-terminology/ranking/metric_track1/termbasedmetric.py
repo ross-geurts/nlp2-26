@@ -312,6 +312,8 @@ class TermBasedMetric():
         :return: filtered_term_column - List[Dict], A list of term dictionaries 
         :return:  reference_dict - global dictionary mapping source terms to their target translations. Not used. 
         """
+
+        proper_inside = False
         
         # 1. retrieving the column with the terms - either from the current df, or from the `proper` mode
         if self.file_config['mode'] == 'proper':
@@ -522,14 +524,16 @@ class TermBasedMetric():
         #                             model_max_length=self.aligner_tokenizer.model_max_length)['input_ids']
         cls_id = self.aligner_tokenizer.cls_token_id
         sep_id = self.aligner_tokenizer.sep_token_id
-        ids_src = torch.tensor([[cls_id] + list(itertools.chain(*wid_src)) + [sep_id]])
-        ids_tgt = torch.tensor([[cls_id] + list(itertools.chain(*wid_tgt)) + [sep_id]])
+        ids_src = torch.tensor([[cls_id] + list(itertools.chain(*wid_src))[:510] + [sep_id]])
+        ids_tgt = torch.tensor([[cls_id] + list(itertools.chain(*wid_tgt))[:510] + [sep_id]])
         sub2word_map_src = []
         for i, word_list in enumerate(token_src):
             sub2word_map_src += [i for x in word_list]
+        sub2word_map_src = sub2word_map_src[:510]
         sub2word_map_tgt = []
         for i, word_list in enumerate(token_tgt):
             sub2word_map_tgt += [i for x in word_list]
+        sub2word_map_tgt = sub2word_map_tgt[:510]
 
         # alignment
         align_layer = 8

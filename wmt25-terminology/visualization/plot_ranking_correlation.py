@@ -7,7 +7,7 @@ import json
 
 track = 1
 # Example nested dict (shortened for clarity)
-with open(f"ranking/metric_track{track}/track{track}_score_dict.json", "r") as f:
+with open(f"../ranking/metric_track{track}/track{track}_score_dict.json", "r") as f:
     data = json.load(f)
 
 # Step 1: Flatten JSON into rows: (language, system, metric, value)

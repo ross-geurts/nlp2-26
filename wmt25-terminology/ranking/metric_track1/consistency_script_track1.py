@@ -26,11 +26,13 @@ def run_cycle(src_lang, tgt_lang, mode, filepath):
     # read all submitted files
     print(os.listdir(filepath))
     file_list = []
+    lang_pair = f"{src_lang}{tgt_lang}"
     for dir1 in os.listdir(filepath):
         dir1_path = os.path.join(filepath, dir1)
         if os.path.isdir(dir1_path):
             for f in os.listdir(dir1_path):
-                file_list.append(os.path.join(dir1, f))
+                if f.endswith(".jsonl") and lang_pair in f and mode in f:
+                    file_list.append(os.path.join(dir1, f))
     
     print("file_list: ", file_list)
     # file_list = [f for f in os.listdir(filepath) if f.endswith('.jsonl') and src_lang+tgt_lang in f and mode in f]
@@ -98,21 +100,33 @@ if __name__ == "__main__":
     # modified for outputs
     stats_dict, error_files = run_cycle(args.srclang, args.tgtlang, args.mode, f'../submissions/track1')
 
-    with open("scores/track1_score_dict.json") as f:
+    accumulated_file = "scores/track1_score_dict_full.json"
+    baseline_file = "scores/track1_score_dict.json"
+
+    file_to_load = accumulated_file if os.path.exists(accumulated_file) else baseline_file
+
+    with open(file_to_load, "r", encoding="utf-8") as f:
         score_dict = json.load(f)
 
-        mapping_dict = {
-            "frequent": "consistency_frequent",
-            "predefined": "consistency_predefined"
-        }
+    mapping_dict = {
+        "frequent": "consistency_frequent",
+        "predefined": "consistency_predefined"
+    }
 
-        for team in stats_dict:
-            for pseudoref_choice in mapping_dict:
-                score_dict[args.tgtlang][args.mode][team.split("/")[-1]][mapping_dict[pseudoref_choice]] = stats_dict[team][pseudoref_choice]['macro']
-                # score_dict[args.tgtlang][args.mode][team][mapping_dict[pseudoref_choice]]['macro'] = stats_dict[team][pseudoref_choice]['micro']
+    for team in stats_dict:
+        clean_team_key = team.split('/')[0]
+        for pseudoref_choice in mapping_dict:
+            metric_key = mapping_dict[pseudoref_choice]
+            macro_score = stats_dict[team][pseudoref_choice]['macro']
+            
+            if args.tgtlang in score_dict and args.mode in score_dict[args.tgtlang]:
+                if clean_team_key in score_dict[args.tgtlang][args.mode]:
+                    score_dict[args.tgtlang][args.mode][clean_team_key][metric_key] = macro_score
 
-        json.dump(score_dict, open("scores/track1_score_dict_full.json", "w", indent=4, ensure_ascii=False))
-
+    os.makedirs("scores", exist_ok=True)
+    with open(accumulated_file, "w", encoding="utf-8") as f_out:
+        json.dump(score_dict, f_out, indent=4, ensure_ascii=False)
+    
     b = time.time()
     print(f'finished in {b-a} seconds')
     print(error_files)

@@ -13,7 +13,7 @@ LANGS = ["de", "ru", "es"]
 plt.figure(figsize=(3.5, 2.5))
 ax = plt.gca()
 
-with open("ranking/metric_track1/track1_score_dict.json", "r") as f:
+with open("../ranking/metric_track1/track1_score_dict.json", "r") as f:
     data = json.load(f)
 
 data = [

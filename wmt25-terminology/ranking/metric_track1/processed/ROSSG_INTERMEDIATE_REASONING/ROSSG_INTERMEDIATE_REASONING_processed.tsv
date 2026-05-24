@@ -1,0 +1,11 @@
+	terms	src_raw	mt_raw	src_terms	alg_terms	norm_tgt_terms
+499	{'completed': 'concluido'}	Cancel repair confirmations with the status Completed.	"account.
+Step 3: provide a brief explanation of the translation and the reasoning behind the translation choices.
+
+**Answer:**
+**Translation:** Cancel confirmations with the status ""concluido"".
+**Explanation:** The translation maintains the original meaning of the sentence, which is to cancel confirmations with a specific status. The term ""concluido"" is used to translate ""completed"" as it is a common term used in Spanish to indicate a state of completion. The translation is accurate and fluent, and it respects the terminology constraints provided.
+
+**Step 2:**
+**Translation:** Cancel confirmations with the status ""concluido"".
+**Explanation:** The translation accurately conveys the original meaning of the sentence, which is to cancel confirmations with a specific status. The term ""concluido"" is used to translate ""completed"" as it is a common term used in Spanish to indicate a state of completion. The translation is fluent and maintains the original meaning, while also respecting the terminology constraints provided."	['completed']	{'completed': 'provided provided'}	['provided provided']

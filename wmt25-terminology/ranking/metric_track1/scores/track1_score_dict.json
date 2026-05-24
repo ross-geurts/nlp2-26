@@ -1,54 +1,242 @@
 {
     "de": {
         "noterm": {
-            "TEAMNAME": {},
-            "tower": {
-                "bleu4": 36.2801537421086,
-                "chrf2++": 61.1584305183955,
-                "proper_term_success_rate": 0.39594843462246776,
-                "random_term_success_rate": 0.6878048780487804
+            "ROSSG_BASELINE": {
+                "bleu4": 0.05954606451144882,
+                "chrf2++": 11.680411664669476,
+                "proper_term_success_rate": 0.03130755064456722,
+                "random_term_success_rate": 0.04227642276422764
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.059605487480367425,
+                "chrf2++": 12.181296475014864,
+                "proper_term_success_rate": 0.02394106813996317,
+                "random_term_success_rate": 0.04715447154471545
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.0037151498525794936,
+                "chrf2++": 3.5509322039170828,
+                "proper_term_success_rate": 0.022099447513812154,
+                "random_term_success_rate": 0.04390243902439024
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.052877168069177076,
+                "chrf2++": 11.21783455816125,
+                "proper_term_success_rate": 0.02578268876611418,
+                "random_term_success_rate": 0.04390243902439024
             }
         },
         "proper": {
-            "TEAMNAME": {
-                "bleu4": 0.02460419682324454,
-                "chrf2++": 10.466394662514057,
+            "ROSSG_BASELINE": {
+                "bleu4": 0.047349828351759285,
+                "chrf2++": 12.251236805065153,
                 "proper_term_success_rate": 0.03683241252302026,
-                "random_term_success_rate": 0.03902439024390244
+                "random_term_success_rate": 0.04390243902439024
             },
-            "tower": {}
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.10169471470680765,
+                "chrf2++": 12.12467615907028,
+                "proper_term_success_rate": 0.027624309392265192,
+                "random_term_success_rate": 0.04552845528455285
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.008249699624373599,
+                "chrf2++": 4.3264001865379695,
+                "proper_term_success_rate": 0.04419889502762431,
+                "random_term_success_rate": 0.05365853658536585
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.054080092876100015,
+                "chrf2++": 12.120460566382292,
+                "proper_term_success_rate": 0.034990791896869246,
+                "random_term_success_rate": 0.03902439024390244
+            }
         },
         "random": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.04952894643698392,
+                "chrf2++": 12.39923170470113,
+                "proper_term_success_rate": 0.027624309392265192,
+                "random_term_success_rate": 0.04390243902439024
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.10712291881458816,
+                "chrf2++": 12.61536804381453,
+                "proper_term_success_rate": 0.02578268876611418,
+                "random_term_success_rate": 0.04227642276422764
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.0053621798121700525,
+                "chrf2++": 4.292809559638061,
+                "proper_term_success_rate": 0.022099447513812154,
+                "random_term_success_rate": 0.05203252032520325
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.04687076849536938,
+                "chrf2++": 12.118458569785407,
+                "proper_term_success_rate": 0.02578268876611418,
+                "random_term_success_rate": 0.04227642276422764
+            }
         }
     },
     "es": {
         "noterm": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.06109091684138267,
+                "chrf2++": 13.257897609149513,
+                "proper_term_success_rate": 0.037243947858473,
+                "random_term_success_rate": 0.04363001745200698
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.08041987465997161,
+                "chrf2++": 13.83460949735069,
+                "proper_term_success_rate": 0.027932960893854747,
+                "random_term_success_rate": 0.031413612565445025
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.005976830934723777,
+                "chrf2++": 4.222390223273672,
+                "proper_term_success_rate": 0.024208566108007448,
+                "random_term_success_rate": 0.03664921465968586
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.05615940584983381,
+                "chrf2++": 13.122548725379868,
+                "proper_term_success_rate": 0.037243947858473,
+                "random_term_success_rate": 0.034904013961605584
+            }
         },
         "proper": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.13262807645714886,
+                "chrf2++": 13.78378013785227,
+                "proper_term_success_rate": 0.037243947858473,
+                "random_term_success_rate": 0.04013961605584642
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.09187935069618625,
+                "chrf2++": 13.951830899477201,
+                "proper_term_success_rate": 0.03910614525139665,
+                "random_term_success_rate": 0.03315881326352531
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.01218132310469718,
+                "chrf2++": 4.925512348377846,
+                "proper_term_success_rate": 0.037243947858473,
+                "random_term_success_rate": 0.04537521815008726
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.09882551401666667,
+                "chrf2++": 13.637711688217289,
+                "proper_term_success_rate": 0.03910614525139665,
+                "random_term_success_rate": 0.04013961605584642
+            }
         },
         "random": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.09282256640019415,
+                "chrf2++": 13.264933269562636,
+                "proper_term_success_rate": 0.037243947858473,
+                "random_term_success_rate": 0.03664921465968586
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.04699721721239295,
+                "chrf2++": 13.576998293345374,
+                "proper_term_success_rate": 0.027932960893854747,
+                "random_term_success_rate": 0.038394415357766144
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.007518381837130469,
+                "chrf2++": 4.735277679155027,
+                "proper_term_success_rate": 0.0297951582867784,
+                "random_term_success_rate": 0.04363001745200698
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.07335502622894104,
+                "chrf2++": 14.003835201881811,
+                "proper_term_success_rate": 0.035381750465549346,
+                "random_term_success_rate": 0.038394415357766144
+            }
         }
     },
     "ru": {
         "noterm": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.03932221797858902,
+                "chrf2++": 8.309158634360807,
+                "proper_term_success_rate": 0.03732809430255403,
+                "random_term_success_rate": 0.03260869565217391
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.06804436630987742,
+                "chrf2++": 9.732043359331762,
+                "proper_term_success_rate": 0.03143418467583497,
+                "random_term_success_rate": 0.030797101449275364
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.004695040426380693,
+                "chrf2++": 1.6900511910226235,
+                "proper_term_success_rate": 0.025540275049115914,
+                "random_term_success_rate": 0.028985507246376812
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.033104539858460874,
+                "chrf2++": 8.550861652532955,
+                "proper_term_success_rate": 0.029469548133595286,
+                "random_term_success_rate": 0.034420289855072464
+            }
         },
         "proper": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.04530962581140119,
+                "chrf2++": 8.844432272175002,
+                "proper_term_success_rate": 0.04518664047151277,
+                "random_term_success_rate": 0.030797101449275364
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.06940147295376935,
+                "chrf2++": 9.81649000648592,
+                "proper_term_success_rate": 0.029469548133595286,
+                "random_term_success_rate": 0.02717391304347826
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.005888528108923801,
+                "chrf2++": 1.8711114113850058,
+                "proper_term_success_rate": 0.0275049115913556,
+                "random_term_success_rate": 0.034420289855072464
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.045884437012998866,
+                "chrf2++": 9.116476945626587,
+                "proper_term_success_rate": 0.03929273084479371,
+                "random_term_success_rate": 0.02717391304347826
+            }
         },
         "random": {
-            "TEAMNAME": {},
-            "tower": {}
+            "ROSSG_BASELINE": {
+                "bleu4": 0.054579140634366516,
+                "chrf2++": 9.102403132498988,
+                "proper_term_success_rate": 0.03732809430255403,
+                "random_term_success_rate": 0.034420289855072464
+            },
+            "ROSSG_CODE_SWITCH": {
+                "bleu4": 0.07210673263424754,
+                "chrf2++": 9.787695787366196,
+                "proper_term_success_rate": 0.03339882121807466,
+                "random_term_success_rate": 0.03260869565217391
+            },
+            "ROSSG_INTERMEDIATE_REASONING": {
+                "bleu4": 0.005245726631834497,
+                "chrf2++": 1.8826551283797774,
+                "proper_term_success_rate": 0.025540275049115914,
+                "random_term_success_rate": 0.025362318840579712
+            },
+            "ROSSG_TERM_ADHERENCE": {
+                "bleu4": 0.04984087492034382,
+                "chrf2++": 8.973379438029212,
+                "proper_term_success_rate": 0.03339882121807466,
+                "random_term_success_rate": 0.028985507246376812
+            }
         }
     }
 }

@@ -8,7 +8,7 @@ import utils
 os.makedirs("generated/", exist_ok=True)
 
 LANGS = ["es", "de", "ru"]
-with open("ranking/metric_track1/track1_score_dict.json", "r") as f:
+with open("../ranking/metric_track1/scores/track1_score_dict.json", "r") as f:
     data = json.load(f)
 
 systems = list(data["de"]["proper"].keys())
