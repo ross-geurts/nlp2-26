@@ -1,0 +1,234 @@
+{"source_term": "Environment, Health and Safety", "target_term": "управление данными по охране здоровья и защите окружающей среды"}
+{"source_term": "Information Lifecycle Management", "target_term": "Information Lifecycle Management"}
+{"source_term": "JIT call", "target_term": "отзыв из производства"}
+{"source_term": "Personal Information", "target_term": "персональные данные"}
+{"source_term": "Purchase Order", "target_term": "Заказ на закупку"}
+{"source_term": "Purchase Order", "target_term": "Заказ на поставку"}
+{"source_term": "access", "target_term": "переход"}
+{"source_term": "account", "target_term": "клиент"}
+{"source_term": "account", "target_term": "счет"}
+{"source_term": "account", "target_term": "учетная запись"}
+{"source_term": "action", "target_term": "операция"}
+{"source_term": "action list", "target_term": "список операций"}
+{"source_term": "activate", "target_term": "активация"}
+{"source_term": "activity", "target_term": "активность"}
+{"source_term": "activity", "target_term": "операция"}
+{"source_term": "activity type", "target_term": "тип активности"}
+{"source_term": "activity type", "target_term": "тип операции"}
+{"source_term": "admission", "target_term": "допуск"}
+{"source_term": "allocation", "target_term": "присвоение"}
+{"source_term": "allocation", "target_term": "распределение"}
+{"source_term": "apply", "target_term": "применять"}
+{"source_term": "assignment", "target_term": "присвоение"}
+{"source_term": "authorization number", "target_term": "номер полномочий"}
+{"source_term": "availability control", "target_term": "контроль наличия"}
+{"source_term": "available capacity", "target_term": "доступная мощность"}
+{"source_term": "balance", "target_term": "сальдо"}
+{"source_term": "base value", "target_term": "ссылочное значение"}
+{"source_term": "branch", "target_term": "ветвь"}
+{"source_term": "business entity", "target_term": "бизнес-сущность"}
+{"source_term": "business partner grouping", "target_term": "группировка деловых партнеров"}
+{"source_term": "calculation", "target_term": "расчет"}
+{"source_term": "calculation type", "target_term": "вид расчета"}
+{"source_term": "cancel", "target_term": "сторнировать"}
+{"source_term": "card", "target_term": "карта"}
+{"source_term": "carrier", "target_term": "перевозчик"}
+{"source_term": "category", "target_term": "категория"}
+{"source_term": "category", "target_term": "тип"}
+{"source_term": "change", "target_term": "изменение"}
+{"source_term": "change", "target_term": "изменить"}
+{"source_term": "characteristic", "target_term": "признак"}
+{"source_term": "characteristic", "target_term": "характеристика"}
+{"source_term": "charge", "target_term": "сбор"}
+{"source_term": "check", "target_term": "проверить"}
+{"source_term": "check", "target_term": "проверка"}
+{"source_term": "checkout", "target_term": "чек-аут"}
+{"source_term": "classification type", "target_term": "вид классификации"}
+{"source_term": "clearing", "target_term": "перерасчет"}
+{"source_term": "client", "target_term": "клиент"}
+{"source_term": "client", "target_term": "мандант"}
+{"source_term": "collection", "target_term": "коллекция"}
+{"source_term": "communication type", "target_term": "вид коммуникации"}
+{"source_term": "compare", "target_term": "сравнивать"}
+{"source_term": "connection", "target_term": "подключение"}
+{"source_term": "consumption", "target_term": "использование"}
+{"source_term": "consumption", "target_term": "потребление"}
+{"source_term": "consumption", "target_term": "расход"}
+{"source_term": "content", "target_term": "контент"}
+{"source_term": "contract", "target_term": "договор"}
+{"source_term": "contract", "target_term": "контракт"}
+{"source_term": "contract amount", "target_term": "сумма контракта"}
+{"source_term": "control", "target_term": "контролировать"}
+{"source_term": "controller", "target_term": "оператор"}
+{"source_term": "conversion rule", "target_term": "правило пересчета"}
+{"source_term": "copy", "target_term": "копирование"}
+{"source_term": "copy", "target_term": "скопировать"}
+{"source_term": "credit profile", "target_term": "профиль кредита"}
+{"source_term": "data provider", "target_term": "провайдер данных"}
+{"source_term": "data staging", "target_term": "предоставление данных"}
+{"source_term": "demand management", "target_term": "управление спросом"}
+{"source_term": "destination", "target_term": "адрес"}
+{"source_term": "destination", "target_term": "адрес назначения"}
+{"source_term": "display", "target_term": "показать"}
+{"source_term": "distribution", "target_term": "распространение"}
+{"source_term": "download", "target_term": "выгружать"}
+{"source_term": "download", "target_term": "выгрузить"}
+{"source_term": "download", "target_term": "выгрузка"}
+{"source_term": "drill down", "target_term": "выполнить развертку"}
+{"source_term": "due date", "target_term": "срок"}
+{"source_term": "duplicate", "target_term": "дубликат"}
+{"source_term": "edit", "target_term": "обработать"}
+{"source_term": "edit", "target_term": "редактировать"}
+{"source_term": "end time", "target_term": "время окончания"}
+{"source_term": "enter", "target_term": "вводить"}
+{"source_term": "entry", "target_term": "ввод"}
+{"source_term": "evaluation", "target_term": "оценка"}
+{"source_term": "event type", "target_term": "тип события"}
+{"source_term": "exception", "target_term": "особая ситуация"}
+{"source_term": "exit", "target_term": "выйти"}
+{"source_term": "expiration", "target_term": "истечение"}
+{"source_term": "form", "target_term": "форма"}
+{"source_term": "general settings", "target_term": "общие настройки"}
+{"source_term": "get", "target_term": "получить"}
+{"source_term": "grouping", "target_term": "группирование"}
+{"source_term": "historical data", "target_term": "данные за прошлый период"}
+{"source_term": "home page", "target_term": "первая страница"}
+{"source_term": "impact", "target_term": "влияние"}
+{"source_term": "in process", "target_term": "в обработке"}
+{"source_term": "inactive", "target_term": "неактивно"}
+{"source_term": "input", "target_term": "ввод"}
+{"source_term": "input", "target_term": "вход"}
+{"source_term": "inspection", "target_term": "проверка"}
+{"source_term": "instance", "target_term": "инстанция"}
+{"source_term": "issue", "target_term": "отпуск"}
+{"source_term": "item", "target_term": "позиция"}
+{"source_term": "item type", "target_term": "вид позиции"}
+{"source_term": "item type", "target_term": "вид элемента"}
+{"source_term": "label", "target_term": "метка"}
+{"source_term": "limit", "target_term": "лимит"}
+{"source_term": "limit", "target_term": "предел"}
+{"source_term": "lot", "target_term": "пакет"}
+{"source_term": "maintain", "target_term": "выполнять ведение"}
+{"source_term": "mapping", "target_term": "мэппинг"}
+{"source_term": "mapping", "target_term": "сопоставление"}
+{"source_term": "mapping template", "target_term": "шаблон сопоставления"}
+{"source_term": "mark", "target_term": "метка"}
+{"source_term": "monitor", "target_term": "отслеживать"}
+{"source_term": "note type", "target_term": "вид примечания"}
+{"source_term": "notification", "target_term": "сообщение"}
+{"source_term": "notification", "target_term": "уведомление"}
+{"source_term": "order", "target_term": "поручение"}
+{"source_term": "output", "target_term": "вывод"}
+{"source_term": "output", "target_term": "выход"}
+{"source_term": "output type", "target_term": "вид вывода"}
+{"source_term": "pack", "target_term": "упаковать"}
+{"source_term": "pane", "target_term": "область"}
+{"source_term": "pattern", "target_term": "модель"}
+{"source_term": "pattern", "target_term": "шаблон"}
+{"source_term": "pause", "target_term": "приостановить"}
+{"source_term": "pause", "target_term": "приостановка"}
+{"source_term": "payment terms", "target_term": "условия платежа"}
+{"source_term": "performance", "target_term": "эффективность"}
+{"source_term": "permission", "target_term": "разрешение"}
+{"source_term": "preferences", "target_term": "настройки"}
+{"source_term": "pricing date", "target_term": "дата цены"}
+{"source_term": "print", "target_term": "печатать"}
+{"source_term": "process", "target_term": "обрабатывать"}
+{"source_term": "process", "target_term": "обработать"}
+{"source_term": "product", "target_term": "товар"}
+{"source_term": "production version", "target_term": "вариант изготовления"}
+{"source_term": "profit center", "target_term": "МВП"}
+{"source_term": "project ID", "target_term": "идентификатор проекта"}
+{"source_term": "provider", "target_term": "поставщик"}
+{"source_term": "provider", "target_term": "провайдер"}
+{"source_term": "purchase order", "target_term": "заказ на закупку"}
+{"source_term": "purchase order", "target_term": "заказ на поставку"}
+{"source_term": "purpose", "target_term": "назначение"}
+{"source_term": "quota", "target_term": "квота"}
+{"source_term": "range", "target_term": "диапазон"}
+{"source_term": "rate", "target_term": "курс"}
+{"source_term": "rating", "target_term": "оценка"}
+{"source_term": "rating", "target_term": "тарификация"}
+{"source_term": "reclassification", "target_term": "реклассификация"}
+{"source_term": "record", "target_term": "запись"}
+{"source_term": "record type", "target_term": "вид записи"}
+{"source_term": "regeneration", "target_term": "перегенерация"}
+{"source_term": "release", "target_term": "деблокирование"}
+{"source_term": "release", "target_term": "деблокировать"}
+{"source_term": "repair", "target_term": "ремонт"}
+{"source_term": "replaced", "target_term": "заменено"}
+{"source_term": "report category", "target_term": "категория отчета"}
+{"source_term": "reporting", "target_term": "отчетность"}
+{"source_term": "reporting", "target_term": "отчеты"}
+{"source_term": "request", "target_term": "заявка"}
+{"source_term": "request", "target_term": "требование"}
+{"source_term": "restart", "target_term": "перезапуск"}
+{"source_term": "result type", "target_term": "тип результата"}
+{"source_term": "resume", "target_term": "резюме"}
+{"source_term": "retention period", "target_term": "период хранения"}
+{"source_term": "revenue recognition", "target_term": "признание выручки"}
+{"source_term": "review", "target_term": "проверка"}
+{"source_term": "rework", "target_term": "доработка"}
+{"source_term": "run", "target_term": "выполнить"}
+{"source_term": "sales order", "target_term": "заказ на продажу"}
+{"source_term": "schedule", "target_term": "график"}
+{"source_term": "schedule", "target_term": "запланировать"}
+{"source_term": "schedule", "target_term": "планирование"}
+{"source_term": "schedule", "target_term": "приложение"}
+{"source_term": "schedule", "target_term": "расписание"}
+{"source_term": "scope", "target_term": "объем"}
+{"source_term": "service confirmation", "target_term": "подтверждение выполнения сервиса"}
+{"source_term": "service confirmation", "target_term": "подтверждение сервиса"}
+{"source_term": "service provider", "target_term": "исполнитель работ"}
+{"source_term": "service provider", "target_term": "поставщик услуг"}
+{"source_term": "set", "target_term": "настроить"}
+{"source_term": "set", "target_term": "установить"}
+{"source_term": "settlement", "target_term": "расчет"}
+{"source_term": "severity", "target_term": "степень серьезности"}
+{"source_term": "share", "target_term": "поделиться"}
+{"source_term": "shared object", "target_term": "общий объект"}
+{"source_term": "simulation run", "target_term": "прогон моделирования"}
+{"source_term": "situation", "target_term": "ситуация"}
+{"source_term": "source assignment", "target_term": "присвоение происхождения"}
+{"source_term": "space", "target_term": "пространство"}
+{"source_term": "start time", "target_term": "время начала"}
+{"source_term": "substitution", "target_term": "замена"}
+{"source_term": "supplement", "target_term": "дополнение"}
+{"source_term": "tab", "target_term": "вкладка"}
+{"source_term": "tab", "target_term": "закладка"}
+{"source_term": "target attribute", "target_term": "атрибут цели"}
+{"source_term": "task list", "target_term": "список задач"}
+{"source_term": "tax category", "target_term": "тип налога"}
+{"source_term": "tax exemption", "target_term": "освобождение от уплаты налога"}
+{"source_term": "team member", "target_term": "участник группы"}
+{"source_term": "tenant", "target_term": "арендатор"}
+{"source_term": "term", "target_term": "термин"}
+{"source_term": "thread", "target_term": "тред"}
+{"source_term": "topic", "target_term": "раздел"}
+{"source_term": "trace", "target_term": "трассировка"}
+{"source_term": "transaction", "target_term": "операция"}
+{"source_term": "transaction", "target_term": "сделка"}
+{"source_term": "transaction currency", "target_term": "валюта сделки"}
+{"source_term": "transfer", "target_term": "передача"}
+{"source_term": "transfer", "target_term": "перенести"}
+{"source_term": "transport", "target_term": "транспорт"}
+{"source_term": "type", "target_term": "вид"}
+{"source_term": "type", "target_term": "тип"}
+{"source_term": "union", "target_term": "объединение"}
+{"source_term": "update", "target_term": "обновить"}
+{"source_term": "update", "target_term": "обновление"}
+{"source_term": "update", "target_term": "обновлять"}
+{"source_term": "usage type", "target_term": "тип использования"}
+{"source_term": "use", "target_term": "использование"}
+{"source_term": "use", "target_term": "использовать"}
+{"source_term": "use case", "target_term": "случай использования"}
+{"source_term": "user ID", "target_term": "идентификатор пользователя"}
+{"source_term": "user status", "target_term": "статус пользователя"}
+{"source_term": "utilization", "target_term": "загрузка"}
+{"source_term": "valid-from date", "target_term": "Действительно с"}
+{"source_term": "validity period", "target_term": "период действия"}
+{"source_term": "validity period", "target_term": "срок действия"}
+{"source_term": "vendor", "target_term": "поставщик"}
+{"source_term": "vendor account", "target_term": "счет кредитора"}
+{"source_term": "wizard", "target_term": "ассистент"}
+{"source_term": "workflow", "target_term": "процесс"}

@@ -1,0 +1,220 @@
+{"source_term": "Actions", "target_term": "acciones"}
+{"source_term": "Approval", "target_term": "Autorización"}
+{"source_term": "Professional Services", "target_term": "Servicios profesionales"}
+{"source_term": "SAP support", "target_term": "SAP Support"}
+{"source_term": "about", "target_term": "info"}
+{"source_term": "accepted", "target_term": "aceptada"}
+{"source_term": "account assignment", "target_term": "asignación de cuentas"}
+{"source_term": "accounting", "target_term": "contabilidad"}
+{"source_term": "add", "target_term": "agregar"}
+{"source_term": "add", "target_term": "añadir"}
+{"source_term": "adjustment", "target_term": "Ajuste"}
+{"source_term": "administrator", "target_term": "responsable"}
+{"source_term": "allocation", "target_term": "imputación"}
+{"source_term": "approval", "target_term": "autorización"}
+{"source_term": "assembly", "target_term": "conjunto"}
+{"source_term": "assessment", "target_term": "evaluación"}
+{"source_term": "authentication", "target_term": "autenticación"}
+{"source_term": "balance", "target_term": "balance"}
+{"source_term": "bill", "target_term": "cuenta"}
+{"source_term": "bill", "target_term": "facturar"}
+{"source_term": "business content", "target_term": "contenido empresarial"}
+{"source_term": "business context", "target_term": "contexto empresarial"}
+{"source_term": "business document", "target_term": "documento comercial"}
+{"source_term": "business entity", "target_term": "entidad empresarial"}
+{"source_term": "business object", "target_term": "business object"}
+{"source_term": "business partner role", "target_term": "rol de socio comercial"}
+{"source_term": "business role", "target_term": "rol empresarial"}
+{"source_term": "business unit", "target_term": "unidad empresarial"}
+{"source_term": "button", "target_term": "pulsador"}
+{"source_term": "case", "target_term": "caso"}
+{"source_term": "central contract", "target_term": "pedido abierto central"}
+{"source_term": "change", "target_term": "cambio"}
+{"source_term": "change", "target_term": "modificación"}
+{"source_term": "charge", "target_term": "cargo"}
+{"source_term": "check", "target_term": "verificación"}
+{"source_term": "clearing item", "target_term": "partida de compensación"}
+{"source_term": "complete", "target_term": "completo"}
+{"source_term": "complete", "target_term": "concluir"}
+{"source_term": "completed", "target_term": "concluido"}
+{"source_term": "compliance requirement", "target_term": "requisito de conformidad"}
+{"source_term": "consolidation chart of accounts", "target_term": "plan de posiciones"}
+{"source_term": "container", "target_term": "contenedor"}
+{"source_term": "contract", "target_term": "contrato"}
+{"source_term": "contract account", "target_term": "cuenta del contrato"}
+{"source_term": "contract creation", "target_term": "creación de pedido abierto"}
+{"source_term": "contract item", "target_term": "posición de contrato"}
+{"source_term": "cost type", "target_term": "tipo de coste"}
+{"source_term": "customer", "target_term": "cliente"}
+{"source_term": "customer", "target_term": "deudor"}
+{"source_term": "data binding", "target_term": "vínculación de datos"}
+{"source_term": "data source", "target_term": "fuente de datos"}
+{"source_term": "data subject", "target_term": "sujeto de datos"}
+{"source_term": "data warehouse", "target_term": "data warehouse"}
+{"source_term": "deadline", "target_term": "plazo"}
+{"source_term": "default", "target_term": "estándar"}
+{"source_term": "default", "target_term": "por defecto"}
+{"source_term": "default", "target_term": "predefinir"}
+{"source_term": "default", "target_term": "valor predeterminado"}
+{"source_term": "delete", "target_term": "borrar"}
+{"source_term": "delete", "target_term": "eliminar"}
+{"source_term": "deleted", "target_term": "borrado"}
+{"source_term": "deployment", "target_term": "deployment"}
+{"source_term": "deployment", "target_term": "despliegue"}
+{"source_term": "deployment", "target_term": "implementación"}
+{"source_term": "discard", "target_term": "rechazar"}
+{"source_term": "display", "target_term": "Visualizar"}
+{"source_term": "display", "target_term": "visualización"}
+{"source_term": "document category", "target_term": "categoría de documento"}
+{"source_term": "document type", "target_term": "clase de documento"}
+{"source_term": "document type", "target_term": "tipo de documento"}
+{"source_term": "dynamic modification", "target_term": "dinamización"}
+{"source_term": "dynamic modification", "target_term": "modificación dinámica"}
+{"source_term": "edit", "target_term": "editar"}
+{"source_term": "edit", "target_term": "tratar"}
+{"source_term": "endpoint", "target_term": "punto de acceso"}
+{"source_term": "enter", "target_term": "indicar"}
+{"source_term": "expand", "target_term": "Desplegar"}
+{"source_term": "expected value", "target_term": "valor previsto"}
+{"source_term": "expiration date", "target_term": "fecha de expiración"}
+{"source_term": "expiration date", "target_term": "fecha de vencimiento"}
+{"source_term": "expired", "target_term": "vencido"}
+{"source_term": "extension", "target_term": "extensión"}
+{"source_term": "feedback", "target_term": "comentarios"}
+{"source_term": "flow", "target_term": "flow"}
+{"source_term": "flow", "target_term": "flujo"}
+{"source_term": "header", "target_term": "cabecera"}
+{"source_term": "in-house production", "target_term": "fabricación propia"}
+{"source_term": "incident", "target_term": "incidencia"}
+{"source_term": "installment plan category", "target_term": "categoría de plan de pago a plazos"}
+{"source_term": "interface", "target_term": "interfase"}
+{"source_term": "inventory", "target_term": "inventario"}
+{"source_term": "inventory", "target_term": "stock"}
+{"source_term": "issue", "target_term": "problema"}
+{"source_term": "item", "target_term": "artículo"}
+{"source_term": "item", "target_term": "elemento"}
+{"source_term": "item", "target_term": "partida"}
+{"source_term": "item", "target_term": "posición"}
+{"source_term": "job", "target_term": "job"}
+{"source_term": "job", "target_term": "tarea"}
+{"source_term": "launchpad", "target_term": "plataforma de lanzamiento"}
+{"source_term": "launchpad", "target_term": "rampa de lanzamiento"}
+{"source_term": "link", "target_term": "enlace"}
+{"source_term": "local repository", "target_term": "repositorio local"}
+{"source_term": "lock", "target_term": "bloquear"}
+{"source_term": "loop", "target_term": "bucle"}
+{"source_term": "manager", "target_term": "administrador"}
+{"source_term": "manager", "target_term": "responsable"}
+{"source_term": "mass processing", "target_term": "procesamiento en masa"}
+{"source_term": "mass processing", "target_term": "tratamiento en masa"}
+{"source_term": "measure", "target_term": "indicador"}
+{"source_term": "measure", "target_term": "medida"}
+{"source_term": "monitor", "target_term": "supervisar"}
+{"source_term": "multiple", "target_term": "múltiple"}
+{"source_term": "multiple", "target_term": "varios"}
+{"source_term": "notice", "target_term": "aviso"}
+{"source_term": "notification", "target_term": "Notificación"}
+{"source_term": "object category", "target_term": "categoría del objeto"}
+{"source_term": "object type", "target_term": "clase de objeto"}
+{"source_term": "offset", "target_term": "desplazamiento"}
+{"source_term": "open", "target_term": "abierta"}
+{"source_term": "opening balance", "target_term": "saldo inicial"}
+{"source_term": "outbound", "target_term": "salida"}
+{"source_term": "output", "target_term": "resultado"}
+{"source_term": "parallel processing", "target_term": "procesamiento paralelo"}
+{"source_term": "partner", "target_term": "interlocutor"}
+{"source_term": "partner", "target_term": "socio"}
+{"source_term": "password", "target_term": "contraseña"}
+{"source_term": "pause", "target_term": "detener"}
+{"source_term": "pause", "target_term": "interrumpir"}
+{"source_term": "popup", "target_term": "popup"}
+{"source_term": "port", "target_term": "puerta"}
+{"source_term": "prepayment", "target_term": "pago adelantado"}
+{"source_term": "process", "target_term": "procesar"}
+{"source_term": "process step", "target_term": "paso del proceso"}
+{"source_term": "processing", "target_term": "gestión"}
+{"source_term": "processing", "target_term": "procesamiento"}
+{"source_term": "processing", "target_term": "procesar"}
+{"source_term": "processing rule", "target_term": "regla de procesamiento"}
+{"source_term": "product type", "target_term": "clase de producto"}
+{"source_term": "production order", "target_term": "orden de producción"}
+{"source_term": "production process", "target_term": "proceso de fabricación"}
+{"source_term": "production version", "target_term": "versión de fabricación"}
+{"source_term": "public", "target_term": "pública"}
+{"source_term": "purpose", "target_term": "fin"}
+{"source_term": "purpose", "target_term": "objetivo"}
+{"source_term": "range", "target_term": "intervalo"}
+{"source_term": "read", "target_term": "leer"}
+{"source_term": "recurrence", "target_term": "repetición"}
+{"source_term": "remove", "target_term": "quitar"}
+{"source_term": "renewal", "target_term": "renovación"}
+{"source_term": "replication", "target_term": "replicación"}
+{"source_term": "replication", "target_term": "reproducción"}
+{"source_term": "report", "target_term": "informe"}
+{"source_term": "reporting", "target_term": "informes"}
+{"source_term": "reporting period", "target_term": "período del informe"}
+{"source_term": "requirement", "target_term": "requisitos"}
+{"source_term": "reset", "target_term": "restablecer"}
+{"source_term": "retention period", "target_term": "plazo de conservación"}
+{"source_term": "retrieval", "target_term": "recuperación"}
+{"source_term": "review", "target_term": "revisión"}
+{"source_term": "role", "target_term": "función"}
+{"source_term": "role template", "target_term": "plantilla de rol"}
+{"source_term": "run type", "target_term": "clase de ejecución"}
+{"source_term": "save", "target_term": "guardar"}
+{"source_term": "save as", "target_term": "guardar como"}
+{"source_term": "schedule", "target_term": "planificación"}
+{"source_term": "schedule", "target_term": "planificar"}
+{"source_term": "schedule", "target_term": "programa"}
+{"source_term": "schedule", "target_term": "programación"}
+{"source_term": "scheduled", "target_term": "programado"}
+{"source_term": "scope", "target_term": "alcance"}
+{"source_term": "security", "target_term": "títulos"}
+{"source_term": "service confirmation", "target_term": "confirmación de servicio"}
+{"source_term": "service confirmation", "target_term": "notificación de servicio"}
+{"source_term": "service provider", "target_term": "proveedor de servicios"}
+{"source_term": "set", "target_term": "conjunto"}
+{"source_term": "set", "target_term": "definir"}
+{"source_term": "sharing", "target_term": "compartición"}
+{"source_term": "sharing", "target_term": "compartimiento"}
+{"source_term": "shipment", "target_term": "envío"}
+{"source_term": "site", "target_term": "centro"}
+{"source_term": "slot", "target_term": "slot"}
+{"source_term": "sort", "target_term": "clasificar"}
+{"source_term": "sorting", "target_term": "orden"}
+{"source_term": "source", "target_term": "fuente"}
+{"source_term": "source", "target_term": "origen"}
+{"source_term": "source document", "target_term": "documento de origen"}
+{"source_term": "source document category", "target_term": "tipo de documento de origen"}
+{"source_term": "split", "target_term": "partición"}
+{"source_term": "stage", "target_term": "fase"}
+{"source_term": "statement", "target_term": "declaración"}
+{"source_term": "step", "target_term": "paso"}
+{"source_term": "storage", "target_term": "almacén"}
+{"source_term": "storage type", "target_term": "tipo de almacenamiento"}
+{"source_term": "string", "target_term": "string"}
+{"source_term": "system administration", "target_term": "administración del sistema"}
+{"source_term": "tab", "target_term": "etiqueta"}
+{"source_term": "tab", "target_term": "ficha"}
+{"source_term": "tab", "target_term": "pestaña"}
+{"source_term": "target", "target_term": "objetivo"}
+{"source_term": "tax rate", "target_term": "tipo impositivo"}
+{"source_term": "template", "target_term": "modelo"}
+{"source_term": "template", "target_term": "plantilla"}
+{"source_term": "term", "target_term": "término"}
+{"source_term": "termination", "target_term": "rescisión"}
+{"source_term": "time", "target_term": "tiempo"}
+{"source_term": "trace", "target_term": "seguimiento"}
+{"source_term": "transaction", "target_term": "operación"}
+{"source_term": "transaction", "target_term": "transacción"}
+{"source_term": "transaction type", "target_term": "tipo de operación"}
+{"source_term": "type", "target_term": "clase"}
+{"source_term": "type", "target_term": "tipo"}
+{"source_term": "use", "target_term": "utilización"}
+{"source_term": "use", "target_term": "utilizar"}
+{"source_term": "user interface", "target_term": "interfase de usuario"}
+{"source_term": "vendor", "target_term": "acreedor"}
+{"source_term": "work center", "target_term": "centro de trabajo"}
+{"source_term": "work center", "target_term": "puesto de trabajo"}
+{"source_term": "worklist", "target_term": "lista de trabajo"}
+{"source_term": "write off", "target_term": "ignorar"}

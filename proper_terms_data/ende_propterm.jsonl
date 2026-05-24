@@ -1,0 +1,298 @@
+{"source_term": "Account", "target_term": "Account"}
+{"source_term": "Accounting", "target_term": "Accounting"}
+{"source_term": "Action", "target_term": "Action"}
+{"source_term": "Action", "target_term": "Aktion"}
+{"source_term": "Business Users", "target_term": "Anwender"}
+{"source_term": "Group", "target_term": "Group"}
+{"source_term": "ID", "target_term": "ID"}
+{"source_term": "ID", "target_term": "Kennung"}
+{"source_term": "ID type", "target_term": "ID-Art"}
+{"source_term": "Knowledge Base", "target_term": "Knowledge Base"}
+{"source_term": "Machine Learning", "target_term": "Machine Learning"}
+{"source_term": "Material Groups", "target_term": "Materialgruppen"}
+{"source_term": "Network", "target_term": "Network"}
+{"source_term": "Procedure", "target_term": "Vorgehensweise"}
+{"source_term": "Table", "target_term": "Tabelle"}
+{"source_term": "access", "target_term": "Zugriff"}
+{"source_term": "access control", "target_term": "Zugriffskontrolle"}
+{"source_term": "account", "target_term": "Account"}
+{"source_term": "account", "target_term": "Benutzerkonto"}
+{"source_term": "account assignment distribution", "target_term": "Kontierungsaufteilung"}
+{"source_term": "action", "target_term": "Action"}
+{"source_term": "action", "target_term": "Aktion"}
+{"source_term": "alert", "target_term": "Alarm"}
+{"source_term": "allow", "target_term": "erlauben"}
+{"source_term": "application help", "target_term": "Anwendungshilfe"}
+{"source_term": "application log", "target_term": "Anwendungsprotokoll"}
+{"source_term": "appointment", "target_term": "Torbelegung"}
+{"source_term": "approver", "target_term": "Genehmigender"}
+{"source_term": "assembly", "target_term": "Zusammenstellung"}
+{"source_term": "assessment", "target_term": "Bewertung"}
+{"source_term": "asset", "target_term": "Anlage"}
+{"source_term": "asset", "target_term": "Objekt"}
+{"source_term": "asset type", "target_term": "Anlagenart"}
+{"source_term": "assignment", "target_term": "Einsatz"}
+{"source_term": "association", "target_term": "Assoziation"}
+{"source_term": "association", "target_term": "Zuordnung"}
+{"source_term": "attachment", "target_term": "Anlage"}
+{"source_term": "attribute", "target_term": "Attribut"}
+{"source_term": "audit", "target_term": "Audit"}
+{"source_term": "audit", "target_term": "Prüfung"}
+{"source_term": "authorization", "target_term": "Autorisierung"}
+{"source_term": "available", "target_term": "verfügbar"}
+{"source_term": "available capacity", "target_term": "verfügbare Kapazität"}
+{"source_term": "blocked", "target_term": "gesperrt"}
+{"source_term": "bucket", "target_term": "Periode"}
+{"source_term": "business name", "target_term": "betriebswirtschaftlicher Name"}
+{"source_term": "business user", "target_term": "Anwender"}
+{"source_term": "business user", "target_term": "Geschäftsbenutzer"}
+{"source_term": "callback", "target_term": "Callback"}
+{"source_term": "canvas", "target_term": "Grafikbereich"}
+{"source_term": "category", "target_term": "Kategorie"}
+{"source_term": "category", "target_term": "Typ"}
+{"source_term": "change", "target_term": "Änderung"}
+{"source_term": "change", "target_term": "ändern"}
+{"source_term": "change document", "target_term": "Änderungsdokument"}
+{"source_term": "change log", "target_term": "Änderungsprotokoll"}
+{"source_term": "check", "target_term": "Kontrolle"}
+{"source_term": "check", "target_term": "Prüfen"}
+{"source_term": "check", "target_term": "überprüfen"}
+{"source_term": "claim", "target_term": "Schaden-/Leistungsfall"}
+{"source_term": "class", "target_term": "Kurseinheit"}
+{"source_term": "classification", "target_term": "Klassifikation"}
+{"source_term": "client", "target_term": "Client"}
+{"source_term": "cohort", "target_term": "Lerngruppe"}
+{"source_term": "collection", "target_term": "Collection"}
+{"source_term": "compliance", "target_term": "Compliance"}
+{"source_term": "compliance requirement", "target_term": "Compliance-Anforderung"}
+{"source_term": "compliance requirement", "target_term": "Konformitätsanforderung"}
+{"source_term": "condition", "target_term": "Bedingung"}
+{"source_term": "condition", "target_term": "Kondition"}
+{"source_term": "confirmation", "target_term": "Bestätigung"}
+{"source_term": "confirmation", "target_term": "Rückmeldung"}
+{"source_term": "connectivity", "target_term": "Connectivity"}
+{"source_term": "connector", "target_term": "Konnektor"}
+{"source_term": "constraint", "target_term": "Einschränkung"}
+{"source_term": "consumption model", "target_term": "Verbrauchsmodell"}
+{"source_term": "contract", "target_term": "Kontrakt"}
+{"source_term": "control", "target_term": "Control"}
+{"source_term": "control", "target_term": "Kontrolle"}
+{"source_term": "create", "target_term": "anlegen"}
+{"source_term": "create", "target_term": "erstellen"}
+{"source_term": "credentials", "target_term": "Anmeldeinformationen"}
+{"source_term": "custom", "target_term": "frei definierbar"}
+{"source_term": "customer", "target_term": "Debitor"}
+{"source_term": "customer", "target_term": "Kunde"}
+{"source_term": "data collector", "target_term": "Datensammler"}
+{"source_term": "data provider", "target_term": "Datenanbieter"}
+{"source_term": "data provider", "target_term": "Datenprovider"}
+{"source_term": "deal", "target_term": "Geschäft"}
+{"source_term": "default value", "target_term": "Standardwert"}
+{"source_term": "deploy", "target_term": "übernehmen"}
+{"source_term": "design", "target_term": "Entwurf"}
+{"source_term": "display", "target_term": "Anzeige"}
+{"source_term": "document", "target_term": "Beleg"}
+{"source_term": "document", "target_term": "Dokument"}
+{"source_term": "document type", "target_term": "Belegart"}
+{"source_term": "document type", "target_term": "Dokumentart"}
+{"source_term": "domain", "target_term": "Domain"}
+{"source_term": "download", "target_term": "Download"}
+{"source_term": "end date", "target_term": "Enddatum"}
+{"source_term": "entitlement", "target_term": "Anrecht"}
+{"source_term": "expand", "target_term": "aufklappen"}
+{"source_term": "expiration date", "target_term": "Auslaufdatum"}
+{"source_term": "expired", "target_term": "ausgelaufen"}
+{"source_term": "facility", "target_term": "Objekt"}
+{"source_term": "feature", "target_term": "Merkmal"}
+{"source_term": "fee", "target_term": "Vergütung"}
+{"source_term": "finished", "target_term": "beendet"}
+{"source_term": "following", "target_term": "Following"}
+{"source_term": "format", "target_term": "Format"}
+{"source_term": "get", "target_term": "abrufen"}
+{"source_term": "graph", "target_term": "Diagramm"}
+{"source_term": "graphical view", "target_term": "grafischer View"}
+{"source_term": "group", "target_term": "group"}
+{"source_term": "header", "target_term": "Überschrift"}
+{"source_term": "history", "target_term": "Verlauf"}
+{"source_term": "icon", "target_term": "Symbol"}
+{"source_term": "identifier", "target_term": "Identifikator"}
+{"source_term": "image", "target_term": "Bild"}
+{"source_term": "incident", "target_term": "Meldung"}
+{"source_term": "indicator", "target_term": "Indikator"}
+{"source_term": "insert", "target_term": "einfügen"}
+{"source_term": "installment plan category", "target_term": "Ratenplantyp"}
+{"source_term": "instructor", "target_term": "Kursleiter"}
+{"source_term": "intercompany", "target_term": "buchungskreisübergreifend"}
+{"source_term": "interest calculation", "target_term": "Zinsrechnung"}
+{"source_term": "interface", "target_term": "Schnittstelle"}
+{"source_term": "issue", "target_term": "Issue"}
+{"source_term": "issue", "target_term": "Problem"}
+{"source_term": "item", "target_term": "Artikel"}
+{"source_term": "item", "target_term": "Element"}
+{"source_term": "item", "target_term": "Item"}
+{"source_term": "item", "target_term": "Position"}
+{"source_term": "item", "target_term": "Posten"}
+{"source_term": "job", "target_term": "Auftrag"}
+{"source_term": "job", "target_term": "Job"}
+{"source_term": "joint venture accounting", "target_term": "Joint Venture Accounting"}
+{"source_term": "key mapping", "target_term": "Schlüsselzuordnung"}
+{"source_term": "knowledge base", "target_term": "Knowledge-Base"}
+{"source_term": "label", "target_term": "Label"}
+{"source_term": "layer", "target_term": "Schicht"}
+{"source_term": "learner type", "target_term": "Lerntyp"}
+{"source_term": "line of business", "target_term": "Geschäftsbereich"}
+{"source_term": "line type", "target_term": "Zeilenart"}
+{"source_term": "link", "target_term": "Verknüpfung"}
+{"source_term": "link", "target_term": "Zuordnung"}
+{"source_term": "list view", "target_term": "Listensicht"}
+{"source_term": "load", "target_term": "Load"}
+{"source_term": "load", "target_term": "laden"}
+{"source_term": "log", "target_term": "Log"}
+{"source_term": "machine learning", "target_term": "Machine Learning"}
+{"source_term": "mapping", "target_term": "Mapping"}
+{"source_term": "mapping", "target_term": "Zuordnung"}
+{"source_term": "marker", "target_term": "Markierung"}
+{"source_term": "match", "target_term": "abgleichen"}
+{"source_term": "material group", "target_term": "Materialgruppe"}
+{"source_term": "membership", "target_term": "Zugehörigkeit"}
+{"source_term": "message", "target_term": "Meldung"}
+{"source_term": "message", "target_term": "Nachricht"}
+{"source_term": "module", "target_term": "Modul"}
+{"source_term": "monitor", "target_term": "überwachen"}
+{"source_term": "monitoring", "target_term": "Überwachung"}
+{"source_term": "note", "target_term": "Anmerkung"}
+{"source_term": "note", "target_term": "Hinweis"}
+{"source_term": "note", "target_term": "Notiz"}
+{"source_term": "notes", "target_term": "Anmerkungen"}
+{"source_term": "notification", "target_term": "Benachrichtigung"}
+{"source_term": "notification", "target_term": "Meldung"}
+{"source_term": "offset", "target_term": "Offset"}
+{"source_term": "open item", "target_term": "offene Position"}
+{"source_term": "operation", "target_term": "Operation"}
+{"source_term": "operation", "target_term": "Vorgang"}
+{"source_term": "order", "target_term": "Auftrag"}
+{"source_term": "overhead allocation", "target_term": "Gemeinkostenverrechnung"}
+{"source_term": "package", "target_term": "Packstück"}
+{"source_term": "page", "target_term": "Page"}
+{"source_term": "page type", "target_term": "Seitenart"}
+{"source_term": "panel", "target_term": "Bereich"}
+{"source_term": "panel", "target_term": "Fenster"}
+{"source_term": "part", "target_term": "Part"}
+{"source_term": "pause", "target_term": "pausieren"}
+{"source_term": "percentage", "target_term": "prozentual"}
+{"source_term": "period", "target_term": "Zeitraum"}
+{"source_term": "personal data", "target_term": "personenbezogene Daten"}
+{"source_term": "position", "target_term": "Bestand"}
+{"source_term": "procedure", "target_term": "Vorgehensweise"}
+{"source_term": "process", "target_term": "Prozess"}
+{"source_term": "process", "target_term": "Vorgang"}
+{"source_term": "process", "target_term": "verarbeiten"}
+{"source_term": "processing", "target_term": "Verarbeitung"}
+{"source_term": "project", "target_term": "Project"}
+{"source_term": "project manager", "target_term": "Projektmanager"}
+{"source_term": "property", "target_term": "Eigenschaft"}
+{"source_term": "provided", "target_term": "angegeben"}
+{"source_term": "provided", "target_term": "bereitgestellt"}
+{"source_term": "provider", "target_term": "Anbieter"}
+{"source_term": "provider", "target_term": "Provider"}
+{"source_term": "publish", "target_term": "veröffentlichen"}
+{"source_term": "purchase requisition item type", "target_term": "Bestellanforderungs-Positionsart"}
+{"source_term": "query", "target_term": "Abfrage"}
+{"source_term": "query", "target_term": "Query"}
+{"source_term": "queue", "target_term": "Warteschlange"}
+{"source_term": "range", "target_term": "Bereich"}
+{"source_term": "ranking", "target_term": "Ranking"}
+{"source_term": "record type", "target_term": "Satztyp"}
+{"source_term": "reference", "target_term": "Verweis"}
+{"source_term": "reject", "target_term": "ablehnen"}
+{"source_term": "relationship", "target_term": "Verknüpfung"}
+{"source_term": "release", "target_term": "Release"}
+{"source_term": "renewal", "target_term": "Erneuerung"}
+{"source_term": "renewal", "target_term": "Verlängerung"}
+{"source_term": "report", "target_term": "Report"}
+{"source_term": "reporting period", "target_term": "Berichtsperiode"}
+{"source_term": "request", "target_term": "Antrag"}
+{"source_term": "request", "target_term": "anfragen"}
+{"source_term": "requested", "target_term": "angefragt"}
+{"source_term": "reset", "target_term": "zurücksetzen"}
+{"source_term": "residence period", "target_term": "Residenzzeit"}
+{"source_term": "restriction", "target_term": "Einschränkung"}
+{"source_term": "retention period", "target_term": "Aufbewahrungszeitraum"}
+{"source_term": "return", "target_term": "Meldung"}
+{"source_term": "review", "target_term": "Prüfung"}
+{"source_term": "reviewer", "target_term": "Prüfer"}
+{"source_term": "revision", "target_term": "überarbeitete Version"}
+{"source_term": "root", "target_term": "Stamm"}
+{"source_term": "run", "target_term": "Lauf"}
+{"source_term": "safety instruction", "target_term": "Betriebsanweisung"}
+{"source_term": "scales", "target_term": "Staffel"}
+{"source_term": "scenario", "target_term": "Scenario"}
+{"source_term": "scenario", "target_term": "Szenario"}
+{"source_term": "schedule", "target_term": "Dokument"}
+{"source_term": "schedule", "target_term": "Planung"}
+{"source_term": "schedule", "target_term": "Terminplan"}
+{"source_term": "schedule", "target_term": "Zeitplan"}
+{"source_term": "schedule", "target_term": "zeitgesteuert verarbeiten"}
+{"source_term": "scheduled", "target_term": "terminiert"}
+{"source_term": "scheduling", "target_term": "Einplanung"}
+{"source_term": "scheduling", "target_term": "Terminierung"}
+{"source_term": "score", "target_term": "Punktzahl"}
+{"source_term": "section", "target_term": "Abschnitt"}
+{"source_term": "select", "target_term": "auswählen"}
+{"source_term": "select", "target_term": "markieren"}
+{"source_term": "selection", "target_term": "Auswahl"}
+{"source_term": "selection", "target_term": "Selektion"}
+{"source_term": "sequence", "target_term": "Reihenfolge"}
+{"source_term": "sequence", "target_term": "Sequenz"}
+{"source_term": "service", "target_term": "Dienstleistung"}
+{"source_term": "service", "target_term": "Service"}
+{"source_term": "service provider", "target_term": "Serviceanbieter"}
+{"source_term": "set", "target_term": "Set"}
+{"source_term": "share", "target_term": "teilen"}
+{"source_term": "shared object", "target_term": "gemeinsam genutztes Objekt"}
+{"source_term": "side panel", "target_term": "Seitenbereich"}
+{"source_term": "single document", "target_term": "Einzelbeleg"}
+{"source_term": "source", "target_term": "Datenquelle"}
+{"source_term": "source", "target_term": "Quelle"}
+{"source_term": "space", "target_term": "Platz"}
+{"source_term": "space", "target_term": "Raum"}
+{"source_term": "space", "target_term": "Space"}
+{"source_term": "stage", "target_term": "Stufe"}
+{"source_term": "standard available capacity", "target_term": "Standardkapazitätsangebot"}
+{"source_term": "start", "target_term": "Start"}
+{"source_term": "state", "target_term": "Zustand"}
+{"source_term": "storage", "target_term": "Speicher"}
+{"source_term": "stored procedure", "target_term": "gespeicherte Prozedur"}
+{"source_term": "string", "target_term": "Zeichenfolge"}
+{"source_term": "subgroup", "target_term": "Teilkonzern"}
+{"source_term": "subscription", "target_term": "Abonnement"}
+{"source_term": "subscription", "target_term": "Subskription"}
+{"source_term": "substitution", "target_term": "Ersetzung"}
+{"source_term": "substitution", "target_term": "Substitution"}
+{"source_term": "support", "target_term": "Unterstützung"}
+{"source_term": "tab", "target_term": "Tab"}
+{"source_term": "target costs", "target_term": "Zielkosten"}
+{"source_term": "task log", "target_term": "Aufgabenprotokoll"}
+{"source_term": "team member", "target_term": "Team-Mitglied"}
+{"source_term": "termination", "target_term": "Kündigung"}
+{"source_term": "theme", "target_term": "Motiv"}
+{"source_term": "tile", "target_term": "Kachel"}
+{"source_term": "timeframe", "target_term": "Zeitrahmen"}
+{"source_term": "transaction", "target_term": "Geschäft"}
+{"source_term": "transaction", "target_term": "Transaktion"}
+{"source_term": "transaction", "target_term": "Vorgang"}
+{"source_term": "transfer", "target_term": "Übernahme"}
+{"source_term": "transfer", "target_term": "übertragen"}
+{"source_term": "trigger", "target_term": "Auslöser"}
+{"source_term": "trigger", "target_term": "Trigger"}
+{"source_term": "type", "target_term": "Art"}
+{"source_term": "type", "target_term": "Typ"}
+{"source_term": "update", "target_term": "Aktualisierung"}
+{"source_term": "update", "target_term": "aktualisieren"}
+{"source_term": "upload", "target_term": "Upload"}
+{"source_term": "use", "target_term": "Nutzung"}
+{"source_term": "user", "target_term": "Anwender"}
+{"source_term": "validity period", "target_term": "Gültigkeitszeitraum"}
+{"source_term": "vendor", "target_term": "Lieferant"}
+{"source_term": "work center", "target_term": "Arbeitsplatz"}
+{"source_term": "worklist", "target_term": "Arbeitsliste"}
